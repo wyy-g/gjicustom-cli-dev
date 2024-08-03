@@ -3,4 +3,4 @@ node_modules
 .idea
 
 packages/**/node_modules
-lerna-debug.log
+lerna-debug
