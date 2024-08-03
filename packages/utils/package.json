@@ -1,6 +1,6 @@
 {
   "name": "@gjicustom-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "'wyy-g' <'1482581329@qq.com'>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

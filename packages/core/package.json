@@ -1,11 +1,14 @@
 {
   "name": "@gjlcustom-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "'wyy-g' <'1482581329@qq.com'>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "gjlcustom-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -14,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
