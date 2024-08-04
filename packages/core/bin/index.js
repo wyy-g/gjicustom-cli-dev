@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('gjlcustom-cli-dev init ')
+console.log('gjlcustom-cli-dev init publish')
